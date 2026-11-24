@@ -1,0 +1,914 @@
+M ENATA U LANG R ELASI Y UDIKATIF -E KSEKUTIF -L EGISLATIF :
+U RGENSI OTONOMI A NGGARAN L EMBAGA Y UDIKATIF DAN
+P EMISAHAN R EZIM M ANAJEMEN A PARATUR P ERADILAN
+[Naskah Ditujukan untuk Proses Blind Review]
+Identitas Penulis, Institusi, dan Korespondensi Dicantumkan dalam Berkas Terpisah
+
+Abstrak
+Kebijakan Satu Atap (one-roof system) pascareformasi belum mewujudkan independensi peradilan sejati akibat subordinasi anggaran di bawah eksekutif dan penundukan
+kepegawaian dalam rezim aparatur sipil negara. Kajian yuridis-normatif berpendekatan
+kelembagaan baru ini bertujuan merekonstruksi relasi horizontal antarlembaga negara
+melalui pelembagaan otonomi anggaran yudikatif dan pemisahan korps Aparatur Sipil
+Peradilan (judicial civil service). Hasil kajian mengungkap bahwa ketiadaan otonomi fiskal mendegradasi martabat peradilan menjadi pemohon anggaran di bawah kementerian
+eksekutif. Relasi penganggaran harus ditransformasikan menjadi negosiasi konstitusional langsung antara Mahkamah Agung dan DPR RI selaku pemegang hak bujet (power of
+the purse) melalui kombinasi alokasi minimum 1,5% APBN (statutory floor), pengajuan
+mandiri (direct submission), dan larangan pemotongan anggaran (non-diminution rule).
+Selain itu, pemaknaan reduksionis eksekutif yang memusatkan kekuasaan kehakiman
+semata pada figur hakim—sebagaimana kenaikan tunjangan jabatan via PP No. 42
+Tahun 2025 tanpa kenaikan bagi panitera dan jurusita—memicu disparitas kesejahteraan
+internal yang ekstrem. Penyeragaman birokrasi ASN melahirkan kebuntuan nomenklatur panitera di BKN serta mematikan tangga karier yudisial, di mana batas kaku usia
+pengangkatan 40 tahun dalam tiga undang-undang paket peradilan tahun 2009 dan batas
+seleksi CPNS 35 tahun menghanguskan peluang Panitera Pengganti berpengalaman
+untuk beralih menjadi hakim karier. Menegakkan prinsip bahwa keadilan bukan ajang
+coba-coba teori, pola pembinaan hakim wajib ditata bertingkat dengan menugaskan
+hakim pemula sebagai anggota majelis di pengadilan kelas IA guna mengatasi krisis
+izin hakim tunggal sebelum memimpin persidangan mandiri. Analog dengan pemisahan
+rezim TNI dan Polri, kemandirian yudikatif menuntut pelembagaan korps aparatur di
+bawah kewenangan eksklusif Mahkamah Agung. Badan Pengkajian MPR RI direkomendasikan mengartikulasikan haluan ini ke dalam Pokok-Pokok Haluan Negara (PPHN)
+yang ditindaklanjuti melalui revisi UU Kekuasaan Kehakiman berorientasi sistem organisasi pengadilan, harmonisasi tiga UU Peradilan, pengesahan RUU Jabatan Hakim, dan
+revisi UU Keuangan Negara.
+Kata Kunci: Aparatur Sipil Peradilan; Kemerdekaan Peradilan; Otonomi Anggaran;
+Pokok-Pokok Haluan Negara; Relasi Antarlembaga Negara.
+
+ratis (democratische rechtsstaat).1 Pasal
+24 ayat (1) UUD NRI Tahun 1945 mene-
+
+1. Pendahuluan
+
+Gagasan kemerdekaan kekuasaan kehakiman (the independence of judiciary) merupakan pilar utama negara hukum demok-
+
+1 Jimly Asshiddiqie, Konstitusi dan Konstitusionalisme Indonesia, Edisi Kedua (Jakarta: Sinar
+Grafika, 2021), hlm. 152.
+
+1
+
+gaskan kekuasaan kehakiman merdeka untuk menyelenggarakan peradilan guna menegakkan hukum dan keadilan. Penegasan ini lahir sebagai respons atas hegemoni eksekutif era Demokrasi Terpimpin dan
+Orde Baru yang mensubordinasikan peradilan melalui kontrol birokrasi, pegawai,
+dan anggaran oleh Departemen Kehakiman.2
+Sebagai wujud pelembagaan kemerdekaan peradilan pascareformasi, Indonesia
+menetapkan kebijakan pengalihan satu atap
+(one-roof system) melalui Undang-Undang
+Nomor 35 Tahun 1999 yang kemudian disempurnakan dalam Undang-Undang Nomor 4 Tahun 2004 dan Undang-Undang
+Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman. Melalui kebijakan ini, seluruh aspek organisasi, administrasi, dan
+finansial dari empat lingkungan peradilan
+(Peradilan Umum, Peradilan Agama, Peradilan Militer, dan Peradilan Tata Usaha
+Negara) secara resmi dialihkan dari kementerian sektoral eksekutif ke bawah satu atap
+Mahkamah Agung.3
+Namun, setelah lebih dari dua dekade
+implementasi sistem satu atap, realitas ketatanegaraan memperlihatkan bahwa penyatuan manajerial tersebut belum menghasilkan kemandirian institusional (institutional
+independence) yang sejati. Kemerdekaan
+peradilan Indonesia saat ini terjebak dalam
+paradoks konstitusional: peradilan dinyatakan merdeka secara fungsional dalam memutus perkara (decisional independence),
+
+tetapi instrumen vital keberlangsungan operasionalnya—yakni anggaran dan aparatur
+pendukung—sepenuhnya masih disandera
+oleh otoritas eksekutif dan kompromi politik legislatif.4
+Kerentanan pertama termanifestasi dalam ketiadaan otonomi anggaran yudikatif
+(judicial budget autonomy). Kendati UU
+Mahkamah Agung menetapkan MA memiliki mata anggaran tersendiri dalam APBN,
+siklus anggaran kehakiman tunduk pada
+UU No. 17 Tahun 2003 tentang Keuangan
+Negara. MA disamakan dengan kementerian teknis: pagu indikatif, pagu anggaran, hingga rincian belanja operasional ditentukan sepihak oleh Menteri Keuangan
+dan Bappenas. Ini melahirkan subordinasi struktural di mana kekuasaan kehakiman harus “mengemis” anggaran kepada cabang eksekutif yang sewaktu-waktu dapat
+menjadi pihak berperkara di hadapannya.
+Kerentanan kedua tampak nyata dalam
+pengelolaan aparatur peradilan. Meskipun
+Pasal 19 Undang-Undang Nomor 48 Tahun
+2009 dan Putusan Mahkamah Konstitusi
+Nomor 53/PUU-XIV/2016 mendudukkan
+hakim sebagai pejabat negara,5 respons pemerintah melalui penerbitan PP No. 42
+Tahun 2025 yang menaikkan tunjangan hakim justru melahirkan anomali baru: terciptanya disparitas ekstrem dengan aparatur
+peradilan non-hakim (panitera dan jurusita)
+yang tidak dibarengi kenaikan hak keuangan sepadan. Di sisi lain, penundukan seluruh aparatur peradilan non-hakim di bawah
+
+2 Sebastiaan Pompe, The Indonesian Supreme
+
+4 Zainal Arifin Mochtar, Lembaga Negara Inde-
+
+Court: A Study of Institutional Collapse and Reconstruction (Ithaca: Southeast Asia Program Publications, Cornell University, 2005), hlm. 88–92.
+3 Bagir Manan, Menegakkan Hukum Suatu Pencarian (Jakarta: Asosiasi Advokat Indonesia, 2009),
+hlm. 45–47.
+
+penden: Dinamika Perkembangan dan Urgensinya
+dalam Struktur Ketatanegaraan Indonesia (Depok:
+Rajawali Pers, 2021), hlm. 112.
+5 Mahkamah Konstitusi RI, Putusan Nomor
+53/PUU-XIV/2016, tanggal 14 Desember 2016, hlm.
+72.
+
+2
+
+kendali KemenPAN-RB dan BKN melalui Undang-Undang Nomor 20 Tahun 2023
+tentang Aparatur Sipil Negara (UU ASN)
+mengalami kebuntuan nomenklatur jabatan
+fungsional kepaniteraan dan kejurusitaan.
+Penyeragaman aparatur pengadilan ke dalam birokrasi umum eksekutif ini memicu
+loyalitas ganda dan melemahkan integritas
+teknis peradilan.
+Persoalan ini secara langsung menyingkap kerapuhan relasi antarlembaga negara
+dalam struktur ketatanegaraan Indonesia
+pascaamandemen UUD 1945. Doktrin saling mengawasi dan saling mengimbangi
+(checks and balances) terdistorsi menjadi instrumen subordinasi tidak langsung
+(soft coercion) oleh eksekutif dan legislatif
+terhadap yudikatif melalui instrumen anggaran dan aparatur. Dalam kerangka kerja
+Majelis Permusyawaratan Rakyat (MPR)
+yang berwenang menetapkan UUD NRI
+1945 dan memandu haluan negara melalui Pokok-Pokok Haluan Negara (PPHN),
+penataan ulang arsitektur kelembagaan yudikatif menjadi agenda strategis nasional
+yang mendesak.
+Berdasarkan latar belakang tersebut,
+kajian ini merumuskan tiga permasalahan
+utama: (1) Bagaimana implikasi subordinasi anggaran dan penundukan aparatur peradilan terhadap kemerdekaan kekuasaan
+kehakiman dalam pola hubungan antarlembaga negara? (2) Bagaimana perbandingan
+internasional dan rancang bangun yuridis
+otonomi anggaran yudikatif serta pemisahan rezim aparatur peradilan? dan (3) Bagaimana rekomendasi operasional penataan
+hubungan horizontal tersebut diartikulasikan ke dalam materi muatan PPHN serta
+agenda legislasi nasional?
+
+Tujuan kajian ini adalah membongkar
+distorsi relasi horizontal antara cabang yudikatif, eksekutif, dan legislatif, merumuskan cetak biru pemisahan korps Aparatur Sipil Peradilan (Judicial Civil Service) dan
+otonomi anggaran peradilan murni, serta
+menyusun rekomendasi operasional bagi
+Badan Pengkajian MPR RI dalam merancang materi PPHN.
+2. Metode atau Pendekatan Kajian
+
+Kajian ini menggunakan penelitian hukum
+yuridis-normatif (doctrinal legal research)
+berpendekatan kelembagaan baru (new institutionalism) dalam hukum tata negara.6
+Penelitian menelaah keselarasan vertikal
+dan horizontal norma Pasal 24 UUD NRI
+Tahun 1945 dengan perundang-undangan
+sektor keuangan dan kepegawaian.
+Pendekatan meliputi: (1) Statute Approach, meneliti paket perundang-undangan
+peradilan, keuangan negara, ASN, serta putusan MK terkait; (2) Conceptual Approach, membedah doktrin pemisahan kekuasaan, asas kemerdekaan peradilan, teori otonomi anggaran, dan judicial civil service;
+serta (3) Comparative Approach, menelaah
+model Kosta Rika (alokasi minimum konstitusional), Filipina (otonomi fiskal nondiminution), dan AS (direct budget submission).
+Bahan hukum primer dan sekunder dianalisis secara kualitatif preskriptif guna
+menghasilkan argumentasi hukum kokoh
+dan rekomendasi kebijakan aplikatif bagi
+Badan Pengkajian MPR RI.
+6 Peter Mahmud Marzuki, Penelitian Hukum,
+
+Edisi Revisi (Jakarta: Kencana Prenada Media Group, 2017), hlm. 35.
+
+3
+
+agresi dua cabang kekuasaan politik lainnya.
+Dalam teori hukum ketatanegaraan modern, konsep kemerdekaan kekuasaan kehakiman tidak boleh hanya dipahami secara sempit sebagai kebebasan hakim secara
+individual dalam menjatuhkan putusan di
+ruang sidang tanpa intervensi (substantive/decisional independence). Shimon Shetreet dan Sophie Turenne menegaskan bahwa independensi peradilan bertumpu pada
+empat dimensi terpadu: (1) substantive independence; (2) personal independence;
+(3) collective/internal independence; dan
+(4) institutional or administrative independence.9 Dimensi keempat mensyaratkan
+bahwa lembaga peradilan wajib memiliki
+kemandirian mutlak dari pengaruh cabang
+eksekutif dan legislatif dalam mengelola
+administrasi peradilan, mengelola personil
+pendukung, serta menentukan dan membelanjakan anggarannya sendiri.
+Dalam konteks hukum tata negara Indonesia, Pasal 24 ayat (1) UUD NRI Tahun
+1945 mengkonstruksikan kemerdekaan kekuasaan kehakiman dalam kedudukan horizontal yang setara dan saling mengimbangi
+(checks and balances) dengan Presiden selaku pemegang kekuasaan pemerintahan
+(Pasal 4 ayat (1)) dan Dewan Perwakilan
+Rakyat selaku pemegang kekuasaan membentuk undang-undang (Pasal 20 ayat (1)).
+Namun, prinsip kesetaraan horizontal ini
+mengalami degradasi mendasar dalam operasionalisasinya. Kekuasaan kehakiman
+berada dalam posisi inferior karena cabang
+
+3. Analisis dan Pembahasan
+3.1. Landasan Konstitusional dan Teoretis
+Kemerdekaan Kekuasaan Kehakiman:
+Meninjau Ulang Checks and Balances
+Horizontal
+
+Dalam diskursus klasik pemisahan kekuasaan, Montesquieu meletakkan kekuasaan
+kehakiman (la puissance de juger) sebagai
+cabang kekuasaan mandiri yang harus terpisah secara mutlak dari kekuasaan membentuk undang-undang (legislatif ) dan melaksanakan undang-undang (eksekutif ) guna
+mencegah lahirnya tirani.7 Namun demikian, Alexander Hamilton dalam tulisan
+monumentalnya Federalist No. 78 telah
+memperingatkan kerentanan hakiki yang
+melekat pada cabang peradilan:
+“The judiciary, on the contrary,
+has no influence over either the
+sword or the purse; no direction
+either of the strength or of the
+wealth of the society; and can take no active resolution whatever.
+It may truly be said to have neither FORCE nor WILL, but merely judgment; and must ultimately
+depend upon the aid of the executive arm even for the efficacy
+of its judgments.”8
+Karena lembaga yudikatif tidak memegang
+pedang kekuatan pemaksa (the sword) maupun dompet anggaran publik (the purse),
+independensi peradilan merupakan cabang
+kekuasaan yang paling rapuh di hadapan
+7 Montesquieu, The Spirit of Laws, diterjemahk-
+
+an oleh Thomas Nugent (New York: Colonial Press,
+1900), hlm. 151–153.
+8 Alexander Hamilton, James Madison, dan
+John Jay, The Federalist Papers, diedit oleh Clinton
+Rossiter (New York: New American Library, 1961),
+No. 78, hlm. 465.
+
+9 Shimon Shetreet dan Sophie Turenne, Judges
+
+on Trial: A Study of the Appointment and Accountability of the English Judiciary, Edisi Kedua
+(Cambridge: Cambridge University Press, 2013),
+hlm. 68–75.
+
+4
+
+eksekutif menguasai seluruh instrumen regulasi birokrasi dan fiskal negara, sementara cabang legislatif menguasai persetujuan
+penganggaran.
+Ketika relasi antarlembaga negara berjalan asimetris, mekanisme checks and balances berubah menjadi celah koersi institusional. Jika cabang eksekutif atau legislatif merasa terancam oleh putusan pengadilan yang membatalkan undang-undang atau
+kebijakan pemerintah, mereka dapat melakukan pembalasan tidak langsung (judicial
+retaliation) melalui instrumen pemotongan anggaran, pembatasan formasi kepegawaian, atau penundaan hak-hak keuangan
+aparatur peradilan.10 Dengan demikian, independensi yudikatif yang dijamin konstitusi menjadi ilusi jika tidak dibentengi oleh
+kemandirian fiskal dan otonomi aparatur.
+
+Anggaran pada Bagian Anggaran 005).11
+Penyamaan status ini menimbulkan distorsi yang sangat parah dalam tiga tahapan
+siklus anggaran:
+
+3.2. Paradoks Sistem Satu Atap: Subordinasi Fiskal dan Belenggu Power of the
+Purse
+
+3. Pelaksanaan Anggaran: Mahkamah
+Agung terikat aturan perbendaharaan
+eksekutif (mekanisme DIPA dan revisi anggaran Kemenkeu), bahkan terkena pemotongan anggaran (automatic
+adjustment) via Inpres tanpa konsultasi.
+
+1. Perencanaan Pagu: Usulan anggaran Mahkamah Agung tidak diajukan
+langsung ke DPR, melainkan disaring
+sepihak oleh Kementerian Keuangan
+dan Bappenas melalui Pagu Indikatif
+dan Alokasi Anggaran.
+2. Pembahasan Parlemen: Ketiadaan
+saluran pengajuan langsung memaksa pimpinan peradilan melakukan lobi
+informal di Komisi III DPR RI demi
+memperjuangkan anggaran operasional. Praktik lobi anggaran personal ini
+rentan menciptakan kompromi politik
+yang mencederai etika dan marwah
+peradilan.
+
+Kelahiran kebijakan Satu Atap (one-roof
+system) pada tahun 1999 merupakan lompatan sejarah dalam melepaskan badan peradilan dari cengkeraman Departemen Kehakiman. Namun, pemindahan payung institusional tersebut terbukti belum menyentuh jantung persoalan tata kelola keuangan
+negara. Berdasarkan Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara dan Undang-Undang Nomor 1 Tahun
+2004 tentang Perbendaharaan Negara, kedudukan Mahkamah Agung disamakan dengan kementerian negara biasa (Pengguna
+
+Untuk membuktikan secara empiris kerentanan fiskal tersebut, Tabel 1 memperlihatkan perbandingan antara usulan kebutuhan anggaran Mahkamah Agung dengan
+alokasi definitif dalam APBN selama periode 2020–2025.
+Data pada Tabel 1 mengungkap bukti
+empiris yang sangat memprihatinkan. Rasio alokasi anggaran kekuasaan kehakiman
+di Indonesia rata-rata hanya bertengger di
+kisaran 0,34% hingga 0,40% dari total be-
+
+10 Rosalind Dixon dan David Landau, Abusi-
+
+ve Constitutional Borrowing: Legal Globalization
+and the Subversion of Liberal Democracy (Oxford:
+Oxford University Press, 2021), hlm. 114–118.
+
+11 Undang-Undang Nomor 17 Tahun 2003 ten-
+
+tang Keuangan Negara, Lembaran Negara RI Tahun
+2003 Nomor 47, Pasal 6–8.
+
+5
+
+Tabel 1. Analisis Usulan Pagu Anggaran vs Alokasi Definitif APBN Mahkamah Agung RI
+(2020–2025)
+Tahun
+Anggaran
+
+APBN
+(Triliun Rp)
+
+Usulan MA
+(Triliun Rp)
+
+Alokasi DIPA
+(Triliun Rp)
+
+Rasio APBN
+(%)
+
+Defisit
+(%)
+
+2020
+2.589,9
+14,8
+10,4
+0,40%
+-29,7%
+2021
+2.750,0
+16,2
+11,1
+0,40%
+-31,5%
+2022
+3.106,4
+18,1
+11,5
+0,37%
+-36,5%
+2023
+3.061,2
+19,4
+12,2
+0,40%
+-37,1%
+2024
+3.325,1
+20,7
+11,8
+0,35%
+-43,0%
+2025
+3.621,3
+22,1
+12,6
+0,34%
+-42,9%
+Sumber: Diolah dari Data Laporan Tahunan Mahkamah Agung RI (2020–2024), Nota Keuangan APBN
+Kemenkeu RI, dan Rencana Kerja Anggaran MA RI 2025.a
+a Mahkamah Agung RI, Laporan Tahunan Mahkamah Agung RI Tahun 2023: Menegakkan Keadilan Me-
+
+wujudkan Kepastian Hukum (Jakarta: Mahkamah Agung RI, 2024), hlm. 128–135; Kementerian Keuangan
+RI, Informasi APBN 2024: Melanjutkan Transformasi Ekonomi Menuju Indonesia Maju (Jakarta: Kemenkeu
+RI, 2024), hlm. 18–22.
+
+Keuangan Nomor SE-1/PB/2026.12 Melalui regulasi eksekutif ini, tunjangan jabatan
+hakim dinaikkan secara drastis, mulai dari
+Rp46,7 juta bagi Hakim Pratama di Pengadilan Tingkat Pertama Kelas II hingga mencapai Rp110,5 juta bagi Ketua Pengadilan
+Tingkat Banding. Namun demikian, respons karikatif-parsial ini justru membongkar anomali dan distorsi struktural yang
+jauh lebih fundamental dalam relasi antarlembaga negara:
+Pertama, Disparitas Ekstrem AntarAparatur Peradilan. Kenaikan tunjangan jabatan hakim tidak dibarengi perbaikan hak keuangan aparatur peradilan nonhakim (Panitera, Panitera Pengganti, Jurusita, dan staf). Cabang eksekutif memaknai
+norma “Kekuasaan Kehakiman” Pasal 24
+
+lanja negara dalam APBN. Terlebih lagi,
+defisit antara kebutuhan riil yang diusulkan
+Mahkamah Agung dengan plafon definitif yang disetujui eksekutif dan legislatif
+terus melebar dari minus 29,7% pada tahun 2020 menjadi minus 42,9% pada tahun
+2025. Dari total alokasi yang sangat minim
+tersebut, sekitar 75%–80% terserap murni
+untuk belanja pegawai rutin, menyisakan
+ruang fiskal yang sangat sempit bagi belanja modal pembangunan gedung pengadilan yang layak di daerah terdepan, terluar,
+dan tertinggal (3T), penyediaan rumah dinas serta sarana transportasi hakim, hingga
+pemeliharaan sistem digitalisasi peradilan
+(e-court).
+Dalam perkembangannya, narasi yang
+selama ini mengemuka bahwa hak keuangan hakim diabaikan selama lebih dari satu dekade memang telah direspons oleh
+pemerintah melalui penetapan Peraturan
+Pemerintah Nomor 42 Tahun 2025 yang
+ditindaklanjuti dengan Surat Edaran Direktur Jenderal Perbendaharaan Kementerian
+
+12 Pemerintah RI, Peraturan Pemerintah Nomor
+
+42 Tahun 2025 tentang Perubahan Keempat atas
+Peraturan Pemerintah Nomor 94 Tahun 2012 tentang Hak Keuangan dan Fasilitas Hakim yang Berada di Bawah Mahkamah Agung, Lembaran Negara
+RI Tahun 2025 Nomor 154; Kementerian Keuangan
+RI, Surat Edaran Direktur Jenderal Perbendaharaan Nomor SE-1/PB/2026 tentang Perubahan Ketiga
+atas SE-38/PB/2012 (Jakarta: Ditjen Perbendaharaan, 2026).
+
+6
+
+UUD NRI 1945 secara reduksionis hanya
+berpusat pada personal “Hakim”, bukan
+kesatuan sistem peradilan (the judiciary
+system). Akibatnya, alokasi belanja aparatur terserap dominan bagi hakim, menyisakan porsi marjinal bagi aparatur lainnya.
+Padahal proses peradilan adalah orkestrasi
+teknis yudisial: putusan hakim mustahil dijatuhkan sah tanpa pencatatan berita acara
+akurat oleh Panitera, dan putusan mandul
+tanpa eksekusi lapangan oleh Jurusita yang
+menghadapi risiko fisik tinggi. Membiarkan panitera dan jurusita terkurung dalam
+remunerasi ASN umum menciptakan disparitas destruktif dan melestarikan celah
+korupsi peradilan (judicial corruption).13
+Kedua, Subordinasi Melalui Regulasi Eksekutif. Seluruh penentuan hak keuangan peradilan masih dituangkan dalam
+instrumen hukum cabang eksekutif berupa
+Peraturan Pemerintah, Keputusan Presiden,
+hingga Surat Edaran Kementerian Keuangan. Ketergantungan ini membuktikan bahwa cabang yudikatif masih diposisikan sebagai pemohon yang nasibnya ditentukan
+oleh kompromi eksekutif, bukan melalui
+kemandirian anggaran yang terlindungi secara konstitusional.
+
+Nomor 53/PUU-XIV/2016, hakim ditegaskan sebagai Pejabat Negara yang
+terpisah dari PNS biasa.14 Namun,
+dalam praktiknya timbul anomali doktriner: hakim menyandang label “pejabat negara”, tetapi pola pembinaan dan kepangkatannya dijalankan selayaknya pejabat fungsional birokrasi ASN. Karakteristik otentik Pejabat Negara dalam hukum tata negara mengemban masa jabatan periodik tertentu (fixed-term, lazimnya
+lima tahun) serta memegang fungsi kepemimpinan publik. Karakter
+ini sejatinya diemban oleh pimpinan
+peradilan—seperti Ketua dan Wakil
+Ketua Pengadilan, Ketua MA, Ketua
+MK, serta Hakim Ad Hoc lima tahunan yang ironisnya tidak diakui pemerintah sebagai Pejabat Negara. Sebaliknya, hakim karier pada hakikatnya adalah Pejabat Yudisial Negara Mandiri (Judicial Officers) berkarakter birokrasi peradilan profesional
+tetap (tenured career judiciary) hingga pensiun. Menyamakan hakim karier dengan pejabat negara politis tanpa undang-undang profesi independen
+terbukti hanya menjadi tameng administratif untuk melegitimasi kenaikan tunjangan parsial eksekutif. Hakim karier dan aparatur peradilan mutlak memerlukan kodifikasi perundangundangan profesi tersendiri (sui generis) melalui pengesahan RUU Jabatan
+Hakim.
+
+3.3. Keterjebakan dalam Rezim UU ASN:
+Urgensi Pemisahan Korps Aparatur Sipil Peradilan (Judicial Civil Service)
+
+Kelemahan mendasar kedua terletak pada
+desain manajemen kepegawaian aparatur
+peradilan yang sarat distorsi doktriner:
+1. Status Sui Generis Hakim Karier:
+Pasca-Putusan Mahkamah Konstitusi
+
+2. Cacat Desain Otoritas Memutus
+Perkara dan Pola Residensi: Di ne-
+
+13 Komisi Pemberantasan Korupsi RI, Kajian Ke-
+
+rentanan Korupsi Sektor Peradilan di Indonesia
+(Jakarta: Direktorat Penelitian dan Pengembangan
+KPK, 2023), hlm. 42–49.
+
+14 Mahkamah Konstitusi RI, Putusan Nomor
+
+53/PUU-XIV/2016, hlm. 78.
+
+7
+
+gara dengan tradisi peradilan matang
+seperti Amerika Serikat, hakim pemula tidak serta-merta langsung diberi
+kewenangan memutus mandiri atau
+memimpin sidang, melainkan bertugas sebagai associate judge atau magistrate judge di bawah supervisi hakim senior sebelum memimpin persidangan (presiding judge). Pola ini
+mendesak diadopsi di Indonesia melalui skema residensi yudisial (judicial
+residency) selama 2–3 tahun. Hakim
+junior ditugaskan sebagai anggota majelis di Pengadilan Kelas IA guna menyerap kematangan teknis pada perkara rumit sekaligus mengisi defisit
+majelis hakim yang selama ini memaksa terbitnya diskresi Surat Izin
+Hakim Tunggal oleh Ketua Mahkamah Agung. Secara filosofis, keadilan
+bukanlah ajang coba-coba teori (trial and error): kesalahan yudisial menyangkut hak asasi manusia tidak boleh ditoleransi (zero tolerance on judicial miscarriage). Setelah lulus masa
+residensi di Kelas IA, barulah mereka
+dipromosikan memimpin majelis atau
+didistribusikan secara berkeadilan ke
+Pengadilan Kelas II di pelosok daerah, ditopang jaminan fasilitas rumah
+dinas dan insentif kemahalan yang layak. Tata kelola saat ini justru melegalkan anomali di mana hakim baru
+minim pengalaman langsung memegang palu pemutus mandiri di pelosok
+tanpa supervisi memadai.
+
+eksekutif adalah fakta bahwa hingga
+kini jabatan Panitera dan Jurusita
+tidak dapat dinomenklaturkan secara tepat oleh Badan Kepegawaian
+Negara (BKN). BKN mengalami kebuntuan struktural karena tata kelola
+peradilan bertumpu pada dwitunggal
+kepemimpinan administrasi (twin
+pillars of court administration): Panitera memimpin administrasi teknis
+perkara yudisial, sedangkan Sekretaris memimpin kesekretariatan umum
+sebagai tulang penopang utama operasional, finansial, dan kelembagaan pengadilan yang mutlak wajib diperkokoh. Jika Panitera dipaksakan masuk
+rumpun jabatan struktural ASN eksekutif, timbul kerancuan penentuan hierarki eselon karena Panitera bukan
+bawahan Sekretaris pengadilan, bahkan posisinya mendampingi majelis hakim di persidangan. Sebaliknya, jika
+diposisikan sebagai pejabat fungsional biasa, Panitera memegang wewenang komando eksekusi, memimpin
+jajaran kepaniteraan, dan menandatangani akta otentik demi hukum. Panitera dan Jurusita merupakan pejabat
+fungsional yudisial penegakan hukum
+(judicial auxiliary officers) yang disumpah khusus, sehingga memaksakan mereka ke dalam rezim ASN sipil
+sama kelirunya dengan memaksakan
+prajurit militer atau aparat kepolisian
+ke dalam rezim ASN umum.
+Keterbelengguan rezim ASN ini turut
+mematikan tangga karier yudisial (judicial career ladder). Panitera Pengganti yang setiap hari mengawal persidangan dan menguasai hukum acara
+
+3. Kebuntuan Nomenklatur BKN dan
+Dwitunggal Administrasi Peradilan: Bukti konkret kegagalan penyeragaman peradilan ke dalam birokrasi
+8
+
+teramputasi peluangnya beralih menjadi hakim. Hambatan ini berpangkal
+dari batas usia pengangkatan hakim
+pertama maksimal 40 tahun dalam Pasal 14 ayat (1) huruf h UU No. 49
+Tahun 2009 (Peradilan Umum), Pasal
+13 ayat (1) huruf i UU No. 50 Tahun
+2009 (Peradilan Agama), dan Pasal
+14 ayat (1) huruf g UU No. 51 Tahun 2009 (PTUN),15 yang berpadu kaku dengan batas seleksi CPNS umum
+eksekutif 35 tahun. Ketiadaan skema alih jalur internal (in-service lateral entry) menghanguskan kesempatan Panitera Pengganti berpengalaman.
+Padahal, melalui seleksi meritokratis
+terbuka berbasis kompetensi yang melibatkan Komisi Yudisial (KY) guna
+mencegah risiko nepotisme internal,
+pengangkatan panitera senior berintegritas menjadi hakim justru memperkaya kematangan teknis putusan peradilan.
+
+mengamankan integritas keadilan.
+Dalam konteks relasi anggaran, pembenahan ini mentransformasikan relasi subordinatif yudikatif-eksekutif menjadi negosiasi konstitusional langsung antara Mahkamah Agung dan DPR RI selaku pemegang
+hak bujet (Pasal 20A ayat (1) UUD NRI
+1945). Melalui mekanisme direct budget
+submission ala Amerika Serikat, rencana
+anggaran dibahas secara transparan oleh
+pejabat administrator kesekretariatan pengadilan (court managers) dalam forum
+dengar pendapat resmi parlemen, bukan
+melalui lobi tertutup hakim pemutus perkara. Ditopang alokasi minimum bertahap
+1,5% APBN (statutory floor ala Kosta Rika) guna membiayai perbaikan 400+ gedung satker 3T dan hak keuangan aparatur,
+serta garansi non-diminution rule ala Filipina, kemandirian yudikatif terlindungi
+utuh dari pemangkasan eksekutif maupun
+jebakan transaksi politik.
+3.4. Kajian Komparatif Internasional: Model Penjaminan Otonomi Anggaran
+dan Aparatur Yudikatif
+
+Sebagaimana negara telah secara tegas memisahkan rezim manajemen kepegawaian ASN umum dengan Polri
+dan TNI demi menjaga doktrin dan fungsi
+pertahanan-keamanan nasional, maka kekuasaan kehakiman mutlak menuntut pemisahan serupa. Pelembagaan korps Aparatur Sipil Peradilan (Judicial Civil Service) yang mandiri di bawah kewenangan eksklusif Mahkamah Agung merupakan
+keniscayaan konstitusional guna memutus
+loyalitas ganda birokrasi terhadap kementerian eksekutif (KemenPAN-RB/BKN) dan
+
+Untuk merumuskan desain hukum yang
+kokoh, penting untuk melakukan perbandingan dengan negara-negara yang telah
+berhasil melindungi kemerdekaan peradilannya melalui garansi konstitusional dan
+legislasi khusus:
+3.4.1. Kosta Rika: Model Garansi Alokasi Anggaran Minimum Konstitusional
+
+Konstitusi Kosta Rika Tahun 1949 (Constitución Polı́tica de la República de Costa Rica) memberikan model perlindungan fiskal
+paling tegas di dunia. Pasal 177 Konstitusi Kosta Rika secara eksplisit mewajibkan
+negara mengalokasikan anggaran tahunan
+untuk kekuasaan kehakiman (Poder Judici-
+
+15 Ketiga undang-undang paket peradilan terse-
+
+but seragam mensyaratkan calon hakim karier berusia 25 hingga 40 tahun saat pengangkatan resmi
+di bawah MA, di luar hakim ad hoc, militer, agung,
+dan konstitusi.
+
+9
+
+al) sekurang-kurangnya 6% dari total pendapatan biasa negara (ordinary revenues):
+
+Pasal ini mengandung tiga garansi konstitusional sekaligus:
+1. Pengakuan formal atas otonomi fiskal
+kekuasaan kehakiman (enjoy fiscal autonomy);
+
+“...an amount not less than six
+percent of the ordinary income
+calculated for the fiscal year shall be earmarked for the Judicial
+Power...”16
+
+2. Larangan bagi lembaga legislatif untuk memotong anggaran peradilan lebih rendah daripada alokasi tahun sebelumnya (non-diminution rule); dan
+
+Jaminan mandatory spending berbasis konstitusi ini telah membentengi cabang kehakiman Kosta Rika dari pembalasan politik eksekutif dan parlemen. Mahkamah
+Agung Kosta Rika memiliki kepastian fiskal untuk merencanakan pembaruan peradilan jangka panjang, memberikan remunerasi yang sangat kompetitif bagi hakim dan
+seluruh staf peradilan, serta membangun
+infrastruktur modern tanpa pernah tergantung pada kompromi politik tahunan.
+
+3. Kewajiban bagi bendahara negara eksekutif untuk mencairkan anggaran
+yang telah disahkan secara otomatis
+dan berkala (automatic and regular release) tanpa syarat persetujuan DIPA
+dari kementerian keuangan.
+3.4.3. Amerika Serikat: Mekanisme Pengajuan
+Anggaran Langsung (Direct Budget Submission)
+
+Di tingkat federal Amerika Serikat, perlindungan anggaran yudikatif diatur melalui mekanisme perundang-undangan dalam Budget and Accounting Act 1921 (dikodifikasikan dalam 31 U.S.C. § 1105(b)).
+Berdasarkan aturan ini, cabang eksekutif
+melalui Office of Management and Budget
+(OMB) dilarang mengubah, mengoreksi,
+atau memotong usulan anggaran yang diajukan oleh cabang yudikatif. Usulan anggaran dirumuskan secara mandiri oleh Judicial Conference of the United States (dipimpin oleh Ketua Mahkamah Agung AS)
+dan diadministrasikan oleh Administrative
+Office of the United States Courts (AO).
+Presiden diwajibkan oleh undang-undang
+untuk meneruskan draf anggaran yudikatif
+tersebut secara utuh tanpa modifikasi apa
+pun langsung ke Kongres Amerika Serikat (direct budget submission).18 Selain
+
+3.4.2. Filipina: Otonomi Fiskal dan Klausul
+Non-Diminution Anggaran
+
+Filipina memberikan preseden penting di
+kawasan Asia Tenggara melalui Konstitusi
+1987 (1987 Constitution of the Republic
+of the Philippines). Article VIII, Section 3
+menetapkan jaminan otonomi fiskal peradilan dengan klausul larangan penurunan
+anggaran:
+“The Judiciary shall enjoy fiscal
+autonomy. Appropriations for
+the Judiciary may not be reduced
+by the legislature below the amount appropriated for the previous
+year and, after approval thereof,
+shall be automatically and regularly released.”17
+16 Constitución Polı́tica de la República de Costa
+
+Rica (1949), Article 177.
+17 The 1987 Constitution of the Republic of the
+Philippines, Article VIII, Section 3.
+
+18 Todd Garvey, A Survey of Constitutional and
+
+Statutory Judicial Independence Protections (Wa-
+
+10
+
+itu, aparatur peradilan di AS tidak termasuk dalam sistem pegawai negeri eksekutif
+(Executive Branch Civil Service), melainkan berada di bawah korps tersendiri yang
+diatur langsung oleh sistem peradilan (Judicial Branch Personnel System).
+
+undang alokasi anggaran tetap kekuasaan kehakiman secara bertahap
+sekurang-kurangnya 1,5% dari belanja negara APBN guna mendanai belanja modal 400+ satker 3T dan hak
+keuangan aparatur.
+2. Pengajuan Mandiri (Direct Budget
+Submission): Memberi mandat kepada Mahkamah Agung menyerahkan
+rencana anggaran peradilan langsung
+kepada DPR RI yang dibahas secara
+terbuka oleh administrator peradilan
+tanpa lobi tertutup hakim maupun pemotongan kementerian eksekutif.
+
+4. Rekomendasi Operasional bagi PokokPokok Haluan Negara (PPHN)
+
+Penataan relasi horizontal antara cabang
+yudikatif, eksekutif, dan legislatif bukan
+sekadar isu perbaikan manajerial internal
+Mahkamah Agung, melainkan agenda fundamental ketatanegaraan. Majelis Permusyawaratan Rakyat (MPR) melalui mandat pengkajian sistem ketatanegaraan dan
+penyusunan Pokok-Pokok Haluan Negara
+(PPHN) memegang peran vital mengintegrasikan otonomi institusional peradilan
+ke dalam materi haluan negara demi kesinambungan pembangunan berlandaskan
+supremasi konstitusi. Matriks rekomendasi
+operasional bagi PPHN dan agenda tindak
+lanjut legislasi dipaparkan secara komprehensif pada Tabel 2.
+Berikut adalah rumusan materi muatan
+dan rekomendasi operasional bagi PPHN
+pada Bidang Politik, Hukum, Pertahanan,
+dan Keamanan:
+
+3. Perlindungan Berkelanjutan (NonDiminution Rule): Melarang persetujuan anggaran peradilan lebih rendah
+dari tahun sebelumnya, serta mengecualikan kekuasaan kehakiman dari
+pemotongan anggaran sepihak (automatic adjustment).
+4.2. Klausul Haluan Pemisahan Rezim Aparatur dan Penataan Sistem Peradilan
+
+PPHN harus menggariskan peta jalan transformasi tata kelola aparatur dan kelembagaan peradilan, mencakup:
+1. Reorientasi Paradigma UU Kekuasaan Kehakiman: Menginstruksikan revisi Undang-Undang Nomor 48
+Tahun 2009 tentang Kekuasaan Kehakiman agar muatannya tidak lagi bercorak hakim-sentris (judge-centric),
+melainkan bertransformasi memperkuat keutuhan Sistem dan Organisasi Pengadilan (court system and judicial administration). Regulasi ini
+harus meletakkan kemerdekaan peradilan sebagai satu kesatuan ekosistem
+institusional yang mencakup otono-
+
+4.1. Haluan Penataan Otonomi Anggaran
+Lembaga Yudikatif
+
+PPHN harus memuat klausul imperatif
+yang menetapkan arah kebijakan reformasi anggaran kekuasaan kehakiman sebagai
+berikut:
+1. Alokasi Anggaran Minimum (Statutory Floor): Menetapkan haluan negara yang mewajibkan jaminan undangshington, D.C.: Congressional Research Service,
+2022), hlm. 14–18.
+
+11
+
+Tabel 2. Matriks Rekomendasi Operasional bagi PPHN dan Tahapan Implementasi
+Kebijakan
+Dimensi
+
+Materi Muatan
+Haluan (PPHN)
+
+Instrumen Kebijakan &
+Tindak Lanjut Regulasi
+
+Jangka Waktu
+Implementasi
+
+Otonomi Fiskal
+
+Menggariskan jaminan
+kemandirian fiskal dan
+pengajuan anggaran
+langsung (direct
+submission) tanpa
+pemotongan sepihak
+eksekutif.
+
+• Revisi UU No. 17/2003
+tentang Keuangan Negara
+• Revisi UU Mahkamah Agung
+
+Jangka Pendek
+(2026–2027)
+
+Alokasi
+Minimum
+
+Menetapkan mandat
+alokasi anggaran tetap
+kekuasaan kehakiman
+sekurang-kurangnya
+1,5% APBN dan
+klausul
+non-diminution.
+
+• Pembentukan klausul norma
+dalam RUU APBN
+• Pengesahan RUU Otonomi
+Peradilan
+
+Jangka
+Menengah
+(2027–2029)
+
+Sistem &
+Aparatur
+Peradilan
+
+Menginstruksikan
+reorientasi norma
+organisasi sistem
+pengadilan serta
+pelembagaan korps
+Aparatur Sipil
+Peradilan (Judicial
+Civil Service) mandiri.
+
+• Revisi UU No. 48/2009
+tentang Kekuasaan Kehakiman
+• Pengesahan RUU Jabatan
+Hakim
+• Revisi UU ASN &
+Harmonisasi 3 UU Peradilan
+
+Jangka Pendek
+& Menengah
+(2026–2029)
+
+Desain
+Konstitusi
+
+Menata ulang relasi
+horizontal trias politika
+dan memasukkan
+garansi otonomi
+peradilan ke dalam
+materi konstitusi.
+
+• Rekomendasi Badan
+Pengkajian MPR RI untuk
+Agenda Perubahan Kelima UUD
+NRI 1945 (Pasal 24 ayat (4))
+
+Jangka Panjang
+(2029–2034)
+
+Sumber: Formulasi Konseptual Penulis untuk Bahan Pertimbangan Badan Pengkajian MPR RI (2026).
+
+mi anggaran peradilan, perlindungan
+sarana persidangan, serta pengakuan
+kedudukan fungsional aparatur teknis
+yudisial lainnya (Panitera dan Jurusita) sebagai pilar integritas putusan.
+
+an hakim karier sebagai Pejabat Yudisial Negara Mandiri (sui generis Judicial Officers), pola pembinaan bertingkat residensi yudisial 2–3 tahun
+di pengadilan kelas IA, serta harmonisasi batas usia pengangkatan hakim
+dalam UU Peradilan Umum, UU Peradilan Agama, dan UU PTUN dengan
+membuka skema alih promosi inter-
+
+2. Pengesahan RUU Jabatan Hakim
+dan Harmonisasi Tiga UU Peradilan: Menginstruksikan pembentukan
+UU Jabatan Hakim yang mendudukk12
+
+nal (in-service lateral entry) bagi Panitera Pengganti berpengalaman via
+seleksi meritokratis terbuka berbasis
+kompetensi yang melibatkan Komisi
+Yudisial (KY).
+
+1. Kebijakan Satu Atap (one-roof system) belum mewujudkan independensi peradilan sejati akibat subordinasi fiskal di bawah rezim UU Keuangan Negara dan penundukan aparatur non-hakim di bawah rezim UU
+ASN. Respons eksekutif melalui PP
+No. 42/2025 yang menaikkan tunjangan hakim sepihak justru memicu
+disparitas kesejahteraan internal yang
+ekstrem dan kebuntuan nomenklatur
+fungsional kepaniteraan/kejurusitaan
+di BKN.
+
+3. Pembentukan Korps Aparatur Sipil Peradilan (Judicial Civil Service): Mengakhiri kebuntuan penyeragaman rezim BKN dan menyelaraskan arsitektur dwitunggal administrasi pengadilan (twin pillars of court administration) melalui pemisahan korps aparatur peradilan mandiri di
+bawah kewenangan eksklusif Mahkamah Agung (analog dengan pemisahan rezim TNI dan Polri). Desain korps mandiri ini memastikan Panitera
+dan Sekretaris memiliki pola jenjang
+karier struktural yang sama-sama berjalan seiring dengan kebutuhan lembaga, memperkokoh peran mutlak kesekretariatan sebagai tulang penopang
+operasional pengadilan, sekaligus memuliakan fungsi kepaniteraan teknis
+persidangan.
+
+2. Preseden komparatif Kosta Rika, Filipina, dan Amerika Serikat membuktikan bahwa independensi yudikatif mutlak bertumpu pada otonomi anggaran (alokasi minimum 1,5%
+APBN, pengajuan mandiri direct submission ke parlemen, dan klausul
+non-diminution) serta pemisahan korps Aparatur Sipil Peradilan (Judicial
+Civil Service) di bawah kendali eksklusif Mahkamah Agung—analog dengan pemisahan rezim TNI dan Polri
+dari ASN umum.
+
+4. Skema Indeksasi Otomatis Hak Finansial: Menetapkan formula penyesuaian berkala hak keuangan seluruh
+ekosistem peradilan secara otomatis
+berbasis inflasi guna mencegah disparitas dan distorsi kebijakan parsial
+eksekutif.
+
+3. Badan Pengkajian MPR RI perlu memosisikan agenda ini ke dalam PokokPokok Haluan Negara (PPHN) sebagai haluan pembaruan hukum nasional, yang ditindaklanjuti bertahap melalui revisi UU Kekuasaan Kehakiman
+(berorientasi sistem pengadilan), revisi tiga paket UU Peradilan tahun 2009,
+pengesahan RUU Jabatan Hakim, revisi UU Keuangan Negara, revisi UU
+ASN, dan penguatan norma Pasal 24
+UUD NRI Tahun 1945.
+
+5. Kesimpulan
+
+Kajian ini membuktikan bahwa arsitektur
+ketatanegaraan pascareformasi menyisakan
+anomali fundamental dalam relasi horizontal trias politika. Berdasarkan konsistensi
+rumusan masalah dan hasil telaah, ditarik
+tiga butir kesimpulan:
+13
+
+Daftar Pustaka
+
+Law and Human Rights. London: Commonwealth Secretariat.
+Garvey, Todd. 2022. A Survey of Constitutional and Statutory Judicial Independence Protections. Washington, D.C.:
+Congressional Research Service.
+Kementerian Keuangan RI. 2024. Informasi APBN 2024: Melanjutkan Transformasi Ekonomi Menuju Indonesia Maju.
+Jakarta: Kemenkeu RI.
+Komisi Pemberantasan Korupsi RI. 2023. Kajian Kerentanan
+Korupsi Sektor Peradilan di Indonesia. Jakarta: Direktorat
+Penelitian dan Pengembangan KPK.
+Komisi Yudisial RI. 2025. Laporan Tahunan Komisi Yudisial
+2024: Menjaga Integritas, Menegakkan Kehormatan Hakim.
+Jakarta: Sekretariat Jenderal Komisi Yudisial.
+Mahkamah Agung RI. 2024. Laporan Tahunan Mahkamah
+Agung RI Tahun 2023: Menegakkan Keadilan Mewujudkan
+Kepastian Hukum. Jakarta: Mahkamah Agung RI.
+Solidaritas Hakim Indonesia. 2024. Kertas Advokasi Hak Keuangan dan Martabat Kesejahteraan Hakim Indonesia. Jakarta: Tim Advokasi SHI.
+United Nations Office on Drugs and Crime (UNODC). 2022.
+The Bangalore Principles of Judicial Conduct: Commentary
+and Implementation Guidelines. Wina: UNODC Global
+Judicial Integrity Network.
+Peraturan Perundang-undangan dan Putusan Peradilan
+Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.
+Constitución Polı́tica de la República de Costa Rica (1949).
+The 1987 Constitution of the Republic of the Philippines.
+Undang-Undang Nomor 14 Tahun 1985 tentang Mahkamah
+Agung sebagaimana telah diubah terakhir dengan UndangUndang Nomor 3 Tahun 2009.
+Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara.
+Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan
+Negara.
+Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman.
+Undang-Undang Nomor 49 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 2 Tahun 1986 tentang Peradilan Umum.
+Undang-Undang Nomor 50 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 7 Tahun 1989 tentang Peradilan Agama.
+Undang-Undang Nomor 51 Tahun 2009 tentang Perubahan Kedua atas Undang-Undang Nomor 5 Tahun 1986 tentang Peradilan Tata Usaha Negara.
+Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil
+Negara.
+Peraturan Pemerintah Nomor 42 Tahun 2025 tentang Perubahan
+Keempat atas Peraturan Pemerintah Nomor 94 Tahun 2012
+tentang Hak Keuangan dan Fasilitas Hakim yang Berada di
+Bawah Mahkamah Agung.
+Mahkamah Konstitusi RI. Putusan Nomor 53/PUU-XIV/2016
+perihal Pengujian Undang-Undang Nomor 5 Tahun 2014
+tentang Aparatur Sipil Negara terhadap UUD NRI Tahun
+1945, diucapkan tanggal 14 Desember 2016.
+Surat Kabar dan Laman Daring Grehenson, Gusti. 2024.
+“Revisi UU Pilkada Batal, Buah Keberhasilan Aksi Protes Mahasiswa.” Universitas Gadjah Mada, 27 Agustus 2024. https:
+//ugm.ac.id/id/berita/revisi-uu-pilkada-batal-b
+uah-keberhasilan-aksi-protes-mahasiswa/, diakses
+pada 12 Oktober 2026.
+Susanti, Bivitri. 2023. “Otoritarianisme Berbungkus Hukum.”
+Kompas, 5 Januari 2023. https://www.kompas.id/ar
+tikel/otoritarianisme-berbungkus-hukum, diakses
+pada 12 Oktober 2026.
+
+Buku Asshiddiqie, Jimly. 2021. Konstitusi dan Konstitusionalisme Indonesia. Edisi Kedua. Jakarta: Sinar Grafika.
+Bellamy, Richard, dan Jeff King (eds.). 2025. The Cambridge
+Handbook of Constitutional Theory. Cambridge: Cambridge
+University Press.
+Dixon, Rosalind, dan David Landau. 2021. Abusive Constitutional Borrowing: Legal Globalization and the Subversion of
+Liberal Democracy. Oxford: Oxford University Press.
+Hamilton, Alexander, James Madison, dan John Jay. 1961. The
+Federalist Papers. Diedit oleh Clinton Rossiter. New York:
+New American Library.
+Isra, Saldi. 2020. Pergeseran Kekuasaan Legislatif: Mengurai
+Hubungan Presiden dan DPR Pasca Perubahan UUD 1945.
+Jakarta: Rajawali Pers.
+Manan, Bagir. 2009. Menegakkan Hukum Suatu Pencarian.
+Jakarta: Asosiasi Advokat Indonesia.
+Marzuki, Peter Mahmud. 2017. Penelitian Hukum. Edisi Revisi.
+Jakarta: Kencana Prenada Media Group.
+Mochtar, Zainal Arifin. 2021. Lembaga Negara Independen:
+Dinamika Perkembangan dan Urgensinya dalam Struktur
+Ketatanegaraan Indonesia. Depok: Rajawali Pers.
+Montesquieu. 1900. The Spirit of Laws. Diterjemahkan oleh
+Thomas Nugent. New York: Colonial Press.
+Pompe, Sebastiaan. 2005. The Indonesian Supreme Court: A
+Study of Institutional Collapse and Reconstruction. Ithaca:
+Southeast Asia Program Publications, Cornell University.
+Shetreet, Shimon, dan Sophie Turenne. 2013. Judges on Trial:
+A Study of the Appointment and Accountability of the English
+Judiciary. Edisi Kedua. Cambridge: Cambridge University
+Press.
+Jurnal Ahmad, Fence M. Wantu, dan Dian Ekawaty Ismail.
+2023. “Konvergensi Penafsiran Konstitusional terhadap Pengujian Undang-Undang melalui Pendekatan Constitutional Dialogue.” Jurnal Konstitusi 20, no. 3: 514–535.
+Butt, Simon. 2022. “Judicial Independence and the Indonesian
+Constitutional Court: A Review of Institutional Design and
+Practice.” Asian Journal of Comparative Law 17, no. 1:
+89–114.
+Dixon, Rosalind, dan Michaela Hailbronner. 2021. “Ely in the
+World: The Global Legacy of Democracy and Distrust Forty
+Years On.” International Journal of Constitutional Law 19,
+no. 2: 427–438.
+Ginsburg, Tom, dan Aziz Z. Huq. 2021. “The Democratic
+Retrogression and Judicial Vulnerabilities in Comparative
+Perspective.” Constitutional Studies 7, no. 1: 23–49.
+Hiariej, Eddy O.S. 2022. “Prinsip Negara Hukum dan Independensi Kekuasaan Kehakiman di Era Transformasi Digital.”
+Jurnal Pengkajian Hukum Tata Negara 15, no. 2: 145–168.
+Levy, Jacob T. 2025. “The Separation of Powers and Institutional
+Safeguards of Liberty.” Cambridge Journal of Constitutional
+Studies 4, no. 1: 102–128.
+Mochtar, Zainal Arifin. 2022. “Peradilan Administrasi, Kebijakan Negara, dan Kedaruratan.” Dalam Miko Ginting dan
+Festy Rahma Hidayati (eds.), Potret Penegakan Etika dan
+Hukum di Masa Pandemi, hlm. 173–196. Jakarta: Sekretariat
+Jenderal Komisi Yudisial RI.
+Roux, Theunis. 2023. “The Comparative Sociology of Judicial
+Independence: The Role of Budgetary and Administrative
+Autonomy.” Modern Law Review 86, no. 4: 915–942.
+Tjandra, Riawan. 2021. “Rekonstruksi Hubungan Kelembagaan Pengawasan Hakim dalam Penegakan Peradilan Bersih.”
+Jurnal Hukum Ius Quia Iustum 28, no. 3: 554–576.
+Laporan dan Makalah Commonwealth Secretariat. 2004. The
+Latimer House Guidelines for the Commonwealth: Good Practice Governing Relations between the Executive, Parliament and
+the Judiciary in the Promotion of Good Governance, the Rule of
+
+14
+
+
