@@ -34,6 +34,8 @@ INPUT C:\Program Files\MiKTeX\tex\generic\babel\locale\id\babel-id.ini
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\babel-indonesian\indonesian.ldf
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\babel-indonesian\indonesian.ldf
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\babel-indonesian\indonesian.ldf
+INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\hyphenat\hyphenat.sty
+INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\hyphenat\hyphenat.sty
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\microtype\microtype.sty
@@ -229,17 +231,18 @@ INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
@@ -248,10 +251,6 @@ INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\zptmcm7y.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
-INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmbi7t.vf
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmbi8r.tfm
@@ -263,32 +262,35 @@ INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Users\user\AppData\Roaming\MiKTeX\tex\latex\psnfss\ts1ptm.fd
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr8c.vf
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\zptmcm7y.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT C:\Users\user\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7m.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7y.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\zptmcm7v.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\times\ptmr8c.tfm
 INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\times\ptmb7t.vf
@@ -303,6 +305,10 @@ INPUT .\relasi-yud-eks-leg.out
 INPUT .\relasi-yud-eks-leg.out
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt8.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmb8a.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\urw\times\utmbi8a.pfb
